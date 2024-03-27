@@ -2,6 +2,7 @@
 
 This project is a simple digital clock and theme clock implemented using HTML, CSS, and JavaScript. It provides a digital clock display along with a theme clock that changes its appearance based on the time of the day.
 
+
 ## Features
 
 - Digital clock display showing current time.
@@ -54,6 +55,8 @@ git push origin feature/your-feature
 - Inspired by any sources of inspiration.
 
 
+
+[DigitalClock.webm](https://github.com/Amanc77/Digital-Clock-and-Theme-clock/assets/148977902/db1a4fd3-4841-4fc2-8a83-bb60a968beaa)
 
 
 
